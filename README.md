@@ -29,7 +29,7 @@ https://lichess.org/@/cagnusmarlsen01
 
 ## Future Work
 
-- [ ] Improve the dataset by adding more games
+- [x] Improve the dataset by adding more games - On google drive. 12.9 million positions added.
 - [ ] Retrain the model using the improved dataset
 - [ ] Train a regression model on the improved dataset
 - [ ] Add alpha-beta pruning in the model at least 2 moves deep
