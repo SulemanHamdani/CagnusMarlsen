@@ -33,4 +33,6 @@ https://lichess.org/@/cagnusmarlsen01
 - [x] Retrain the model using the improved dataset
 - [ ] Train a regression model on the improved dataset
 - [ ] Add alpha-beta pruning in the model at least 2 moves deep
+- [ ] Implement an opening move book [Create a Polyglot Chess Opening Book](https://www.google.com/search?q=how+to+implement+chess+opening+book+in+python&rlz=1C1SQJL_enPK870PK882&oq=how+to+implement+chess+opening+book+in+python&aqs=chrome..69i57j0i546l3.15553j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:69649c0f,vid:rskcUNoirPU)
 - [ ] Giraffe Chess Engine 
+
